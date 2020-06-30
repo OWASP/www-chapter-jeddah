@@ -3,7 +3,7 @@ title: Contact
 layout:  null
 tab: true
 order: 1
-tags: contact-tag
+tags: example-tag
 ---
 <b>Leadership Contact</b><br>
 <br>Zakariya.Syed@owasp.org
