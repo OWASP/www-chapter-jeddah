@@ -3,8 +3,9 @@
 layout: col-sidebar
 title: OWASP Jeddah
 tags: example-tag
+level: 0
 region: Asia
-
+auto-migrated: 0
 ---
 
 ## Welcome
