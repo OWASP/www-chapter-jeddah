@@ -9,7 +9,7 @@ auto-migrated: 0
 ---
 
 ## Welcome
-Alhamdulillah wassalatuwasalamu ala Rasulullah.
+Alhamdulillah wassalatuwasalamu ala Rasulullah amma ba'd.
 
 Welcome to the OWASP Jeddah chapter. Our goal in alignment with the OWASP mission is to provide everyone with a welcoming environment (virtual / physical) to learn more about application security. We are eager to meet and collaborate with anyone interested.
 
