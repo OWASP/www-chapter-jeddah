@@ -1,7 +1,5 @@
-### Jeddah Information
-* Provide Group Information
+### Chapter Information
+* Jeddah, Saudi Arabia
 
-### Social Links
-* [Meetup](#)
 
 
