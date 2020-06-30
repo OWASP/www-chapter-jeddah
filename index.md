@@ -10,13 +10,13 @@ region: Asia
 
 
 ## Welcome
-Alhamdulillah wassalatuwasalamu ala Rasulullah amma ba'd. 
+Alhamdulillah wassalatuwasalamu ala Rasulullah amma ba'd.
 
-Welcome to the OWASP Jeddah chapter. Our goal in alignment with the OWASP mission is to provide everyone with a welcoming environment (virtual / physical) to learn more about application security. We are eager to meet and collaborate with anyone interested. 
+Welcome to the OWASP Jeddah chapter. Our goal in alignment with the OWASP mission is to provide everyone with a welcoming environment (virtual / physical) to learn more about application security. We are eager to meet and collaborate with anyone interested.
 
 As of now, any future sessions will be held through online video / audio conferencing inshaAllah. This is to ensure that we are inline with the safety regulations surrounding COVID-19 and also offer a seamless experience for everybody.
 
-Details of the upcoming meetings / meetups will be provided as soon as they become available inshaAllah.
+Details of the upcoming meetings / meetups will be provided as soon as they become available inshaAllah. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
