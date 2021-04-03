@@ -18,7 +18,7 @@ As of now, any future sessions will be held through online video / audio confere
 Details of the upcoming meetings / meetups will be provided as soon as they become available inshaAllah. 
 
 ## Upcoming Event
-All events are posted on Meetup. Join our community to stay updated. Please visit: (https://www.meetup.com/Jeddah-OWASP-Meetup-Group) for further details.
+All events are posted on Meetup. Join our community to stay updated. Please visit: [Meetup](https://www.meetup.com/Jeddah-OWASP-Meetup-Group/) for further details.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
