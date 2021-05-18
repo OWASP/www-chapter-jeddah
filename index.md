@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Jeddah
 tags: example-tag
 level: 0
+meetup group: Jeddah-OWASP-Meetup-Group
 region: Asia
 auto-migrated: 0
 ---
@@ -19,6 +20,8 @@ Details of the upcoming meetings / meetups will be provided as soon as they beco
 
 ## Upcoming Event
 All events are posted on Meetup. Join our community to stay updated. Please visit: [Meetup](https://www.meetup.com/Jeddah-OWASP-Meetup-Group/) for further details.
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Event: April 6th, 2021 @ 3:00pm AST / 8:00am ET
 
