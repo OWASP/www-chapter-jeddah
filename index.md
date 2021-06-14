@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Jeddah
 tags: example-tag
 level: 0
-meetup group: Jeddah-OWASP-Meetup-Group
+meetup-group: Jeddah-OWASP-Meetup-Group
 region: Asia
 auto-migrated: 0
 ---
